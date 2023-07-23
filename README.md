@@ -24,7 +24,8 @@ The implementation of the application involves the following steps:
   Furthermore, we can include reference links to the text files, allowing users to access the content of the texts if desired.
 
 
-# Data Collection (link for json file: https://www.kaggle.com/datasets/rmisra/news-category-dataset?select=News_Category_Dataset_v3.json&fbclid=IwAR2NQiMDlkhBhlNkmXZGIbmFoctuwO5QXN4CQKiBtqjpD4TzeJq9pRaqINc )
+# Data Collection 
+>(link for json file: https://www.kaggle.com/datasets/rmisra/news-category-dataset?select=News_Category_Dataset_v3.json&fbclid=IwAR2NQiMDlkhBhlNkmXZGIbmFoctuwO5QXN4CQKiBtqjpD4TzeJq9pRaqINc )
     
 This dataset contains approximately 210,000 news headlines from HuffPost spanning from 2012 to 2022. 
 It is one of the largest news datasets available and can be used as a reference point for various computational linguistic tasks. 
